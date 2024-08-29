@@ -11,4 +11,4 @@ schematic (along with the wiring that took HOURS) can be found below <br> <br>
 ![image](https://github.com/user-attachments/assets/0603f518-5dbd-42ac-bddf-d4d8260685b2)
 <br>
 
-referencing multiple projects like github.com/Alan72104/Arduino4x3keypad , github.com/SamihaFansur/3D-Printed-ESP32-Macropad/ , youtube.com/watch?v=lUGTsETtpmQ, hackster.io/Arnov_Sharma_makes/pico-macropad-6bb29e
+referencing multiple projects like <a href="github.com/Alan72104/Arduino4x3keypad">this</a> , <a href="github.com/SamihaFansur/3D-Printed-ESP32-Macropad/">this</a> , <a href="youtube.com/watch?v=lUGTsETtpmQ">this</a> and <a href="hackster.io/Arnov_Sharma_makes/pico-macropad-6bb29e">this</a>
