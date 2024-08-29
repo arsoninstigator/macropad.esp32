@@ -3,8 +3,8 @@ making (or at least attempting to make) as part of hackclub's #bin hardware elec
 made with <b>micropython</b> and uploaded to #bin for review for getting the physical parts shipped to me <br>
 demo simulation can be <a href="https://wokwi.com/projects/406808444072711169">found here on wokwi</a> (but it might break) <br><br>
 
-i personally think this can be HEAVILY improved if i use arduino but i'm working with what we have (and asking for extra buttons lol)
-<br>
+i personally think this can be HEAVILY improved if i use arduino (or even esp32 for that matter) but i'm working with what we have since now esp32 isn't available with bin. maybe i should be asking for extra buttons lol but i don't think you can get 1+ for a single bin project so i gotta submit multiple entries to get the components that i require. <br>
+i'm going to revamp this completely so im <b>working on the pcb schematic</b> in easyeda so i can have a base for my components so i can actually assemble the macropad by hand / maybe add a few knobs and stuff.
 
 <br><br>
 schematic can be found below <br>
