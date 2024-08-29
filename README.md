@@ -11,4 +11,4 @@ schematic (along with the wiring that took HOURS) can be found below <br> <br>
 ![image](https://github.com/user-attachments/assets/0603f518-5dbd-42ac-bddf-d4d8260685b2)
 <br>
 
-referencing multiple projects like https://github.com/Alan72104/Arduino4x3keypad
+referencing multiple projects like https://github.com/Alan72104/Arduino4x3keypad , https://github.com/SamihaFansur/3D-Printed-ESP32-Macropad/ , https://www.youtube.com/watch?v=lUGTsETtpmQ
